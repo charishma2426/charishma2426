@@ -1,37 +1,32 @@
-<font size="3">
+# 👋 Hi, I'm K. Charishma
 
-# 👋 Hi, I'm K. Charishma 
-
-A **Computer Science & Engineering Student** and **Full-Stack Developer** with a strong foundation in building modern web applications, exploring decentralization, and analyzing data.
+A **Computer Science & Engineering Student** specializing in **Cybersecurity, Network Defense, and Cryptography**. Passionate about analyzing vulnerabilities, securing decentralized systems, and applying cryptographic models to safeguard data integrity.
 
 ---
 
 ## 🛠️ Core Expertise
 
-* **Development:** Full-Stack Web Development (MERN Stack), Java, Python
-* **Emerging Tech:** Blockchain Frameworks & Data Analytics
-* **Interests:** Technology Management & Venture Development
+- **Cybersecurity & Defense:** Network Defense Models, Penetration Testing Principles, Firewalls & Traffic Analysis
+- **Cryptography & Security:** Public-Key Cryptography (RSA), Symmetric Encryption (AES, DES), Blockchain Security
+- **Systems & Scripting:** Linux/Unix Administration, Python, C/C++, Network Packet Analysis
+- **Interests:** System Architecture, Decentralized Security, & Security Analytics
 
 ---
 
-## 🚀 Featured Projects
+## 🛡️ Key Projects & Research Focus
 
-### 🚗 [Simple Parking App Frontend](https://github.com/charishma2426/PARKINGAPP)
-A sleek, single-page parking management application featuring a modern, dark-mode glassmorphic dashboard interface to track spot availability in real-time.
+### 🔒 [AyurTrace](https://github.com/charishma2426)
+A secure, decentralized supply chain traceability platform leveraging **Hyperledger Fabric** to enforce immutable data provenance, cryptographic integrity, and secure audit trails across multi-tier networks.
 
-### 🌿 AyurTrace
-A secure, decentralized blockchain-based traceability system built on Hyperledger Fabric to track the provenance and supply chain safety of Ayurvedic botanical herbs.
+### 🌐 Network Security & Encryption Models
+Exploration and implementation of cryptographic protocols, data flow testing methodologies, and secure key distribution models (RSA, AES) for robust data confidentiality and integrity.
 
-### 👩‍🍳 NIPUNA
-A social entrepreneurship tech venture designed to bridge the gap for homemakers with regional/informal skills by connecting them to job opportunities using accessible, multilingual tech.
+### ⚡ Two-Node HPC Cluster Security & Slurm Workload Management
+Configured and monitored a two-node High Performance Computing cluster using Linux systems administration and Slurm workload manager, focusing on secure resource allocation and process isolation.
 
 ---
 
 ## 📈 GitHub Metrics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=charishma2426&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charishma2426&layout=compact&theme=tokyonight" height="160" />
-</p>
-
-</font>
+![Charishma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=charishma2426&show_icons=true&theme=radial)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charishma2426&layout=compact&theme=radial)
